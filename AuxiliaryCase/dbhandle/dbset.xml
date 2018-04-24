@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dbset>
+    <mssql>
+        <host>192.168.8.53</host>
+        <port>1433</port>
+        <database>SiFire</database>
+        <user>sa</user>
+        <password>Silence2017!</password>
+        <charset>utf8</charset>
+    </mssql>
+    <mongodb>
+        <host>127.0.0.1</host>
+        <port>27017</port>
+        <database>HINTS</database>
+        <user>HINTS</user>
+        <password>HINTS</password>
+    </mongodb>
+    <!--<mongodb>-->
+        <!--<host>192.168.6.186</host>-->
+        <!--<port>27017</port>-->
+        <!--<database>HINTS</database>-->
+        <!--<user>HINTS</user>-->
+        <!--<password>HINTS</password>-->
+    <!--</mongodb>-->
+    <!--<mongodb>-->
+        <!--<host>127.0.0.1</host>-->
+        <!--<port>27017</port>-->
+        <!--<database>ceshi</database>-->
+        <!--<user></user>-->
+        <!--<password></password>-->
+    <!--</mongodb>-->
+</dbset>
